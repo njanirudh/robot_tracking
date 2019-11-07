@@ -24,9 +24,10 @@ Camera is used to take a video or a photo of the robot at its initial and the fi
 ### Procedure
 The complete procedure and the setup is given here.
 
-<img src="/images/pipeline.png" width="300">
+<img src="/images/pipeline.png" width="500">
 
 ### Results
 
+<img src="/images/all_images.jpg" width="500">
 
 
