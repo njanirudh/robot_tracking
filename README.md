@@ -25,13 +25,13 @@ Camera is used to take a video or a photo of the robot at its initial and the fi
 
 --------------------------------
 ### Procedure
-The complete procedure and the setup is given here.
+The complete procedure and the setup is given [here](https://github.com/njanirudh/robot_tracking/blob/master/report/Report.pdf).
 
 <img src="/images/pipeline.png" width="500">
 
 --------------------------------
 ### Results
-
+Images showing all initial and the final postions of the robot on the track.
 <img src="/images/all_images.jpg" width="500">
 
 
