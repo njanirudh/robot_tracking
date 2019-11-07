@@ -2,9 +2,11 @@
 Code and documentation for the task of tracking and localizing a robot on a grid track.
 (We were the only team who used Computer Vision to perform the task.)
 
+--------------------------------
 ### Goal
 The goal of this project is to track the trajectory of a [Lego Mindstorm NXT](https://robots.ieee.org/robots/mindstorms/) on a custom track and measure the errors in the final state over 20 rollouts.
 
+--------------------------------
 ### Setup
 
 To track the robot on the track, aruco markers with different IDs are used.
@@ -21,11 +23,13 @@ Camera is used to take a video or a photo of the robot at its initial and the fi
 
 <img src="/images/apparatus_front_view.png" width="300">
 
+--------------------------------
 ### Procedure
 The complete procedure and the setup is given here.
 
 <img src="/images/pipeline.png" width="500">
 
+--------------------------------
 ### Results
 
 <img src="/images/all_images.jpg" width="500">
