@@ -1,6 +1,6 @@
 # Robot Tracking
 Code and documentation for the task of tracking and localizing a robot on a grid track.
-(We were the only team who used Computer Vision to perform the task.)
+(The only Computer Vision based implementation to perform the task.)
 
 --------------------------------
 ### Goal
